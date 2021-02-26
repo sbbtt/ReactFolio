@@ -79,7 +79,7 @@ export const experience = {
 
 export const openSourceProjects = {
 	title: emoji("Open Source Projects 💻"),
-	view: false
+	view: true
 }
 
 export const projects = {
